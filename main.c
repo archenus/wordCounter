@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void say_hello() {
-  printf("hello\n");
+	printf("hello\n");
 }
 
 int main(int argc, char **argv){
